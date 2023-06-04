@@ -1,0 +1,6 @@
+C:\Users\shans\source\repos\ESVendingMachine\bin\Debug\ESVendingMachine.dll
+C:\Users\shans\source\repos\ESVendingMachine\bin\Debug\ESVendingMachine.pdb
+C:\Users\shans\source\repos\ESVendingMachine\obj\Debug\ESVendingMachine.csproj.AssemblyReference.cache
+C:\Users\shans\source\repos\ESVendingMachine\obj\Debug\ESVendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\shans\source\repos\ESVendingMachine\obj\Debug\ESVendingMachine.dll
+C:\Users\shans\source\repos\ESVendingMachine\obj\Debug\ESVendingMachine.pdb
